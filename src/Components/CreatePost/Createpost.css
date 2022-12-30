@@ -1,0 +1,28 @@
+.post-box{
+    width: 400px;
+    border: 2px solid black;
+    height: 180px;
+    margin: 4% auto;
+    border-radius: 20px;
+  background-color: aqua;
+
+}
+.file-select{
+    margin: 5px;
+      border: 2px solid black;
+      width: 380px;
+      height: 25px;
+}
+
+#choose{
+    position: absolute;
+    margin-left:-190px ;
+    padding: 2px;
+}
+#auth,#loc{
+margin: 10px;
+}
+#des{
+    width: 350px;
+    margin:10px
+}
